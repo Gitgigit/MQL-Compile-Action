@@ -1,0 +1,2 @@
+- name: MQL Compile
+  uses: FX31337/MQL-Compile-Action@v1.0.0
